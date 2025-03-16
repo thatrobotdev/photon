@@ -1,6 +1,6 @@
 # Photon Design System
 
-This project is no longer maintained or worked on. More to come soon on our next design system documentation website.
+Photon is Mozilla's previous, now deprecated, design system that documented UI from before V89. It is no longer in use and was replaced by [Acorn](https://acorn.firefox.com/).
 
 # Running Photon
 
